@@ -1,4 +1,4 @@
-# Big Data — Master 1 DATA-IA (UPB)
+# Big Data 
 
 ![Hadoop](https://img.shields.io/badge/Hadoop-3.4.3-66CCFF?logo=apachehadoop&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-3.4.1_/_3.5.1-E25A1C?logo=apachespark&logoColor=white)
@@ -9,8 +9,11 @@
 
 Ce dépôt regroupe l'ensemble des travaux pratiques réalisés dans le cadre du module **Big Data**, Master 1 DATA-IA, Université Polytechnique de Bingerville (UPB).
 
-**Enseignant :** Dr BOBET GOUALO
-**Année académique :** 2025-2026
+## Auteur
+
+**YAO MIÉZAN SAM WILLIAM** , Master 1 DATA-IA, Université Polytechnique de Bingerville
+**Enseignant** : Dr BOBET GOUALO      
+**Année académique** : 2025-2026
 
 Tous les TP partagent un fil conducteur commun : un jeu de données de **100 000 transactions Mobile Money** simulant l'activité de quatre opérateurs ivoiriens (Wave, Orange Money, MTN CI, Moov Africa), traité à travers différentes briques de l'écosystème Hadoop/Spark, sur différentes infrastructures (EC2 manuel, EMR managé).
 
