@@ -16,7 +16,7 @@ Reproduction du pipeline du [TP1](../01-hadoop-ec2-installation) sur une infrast
 
 ## Stack
 
-Hadoop 3.3.6, Hive 3.1.3, Spark 3.4.1, Livy 0.7.1 — le tout préinstallé et géré automatiquement par EMR, sans configuration XML manuelle.
+Hadoop 3.3.6, Hive 3.1.3, Spark 3.4.1, Livy 0.7.1, le tout préinstallé et géré automatiquement par EMR, sans configuration XML manuelle.
 
 ## Pipeline reproduit
 
