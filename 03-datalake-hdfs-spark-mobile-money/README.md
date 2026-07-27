@@ -43,7 +43,7 @@ L'architecture suit le modèle **Medallion (3 zones)**, un mécanisme de gouvern
 | **Processed** | Données nettoyées, typées et partitionnées par opérateur | Parquet + Snappy |
 | **Curated** | Résultats des analyses métier, prêts à consommer | CSV |
 
-![Schéma de l'architecture Data Lake sur HDFS](./docs/architecture-datalake.png)
+![Schéma de l'architecture Data Lake sur HDFS](./Schéma architecture-datalake.png)
 
 ## Stack technique
 
@@ -78,7 +78,7 @@ Le partitionnement Parquet par colonne `operateur` crée 4 sous-répertoires phy
 
 ## Pipeline ETL
 
-Script `etl_mobilemoney.py` — lecture du CSV depuis HDFS (zone Raw), inférence de schéma, écriture en Parquet partitionné (zone Processed) :
+Script `etl_mobilemoney.py` de lecture du CSV depuis HDFS (zone Raw), inférence de schéma, écriture en Parquet partitionné (zone Processed) :
 
 ```python
 from pyspark.sql import SparkSession
