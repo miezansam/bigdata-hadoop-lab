@@ -43,7 +43,7 @@ L'architecture suit le modèle **Medallion (3 zones)**, un mécanisme de gouvern
 | **Processed** | Données nettoyées, typées et partitionnées par opérateur | Parquet + Snappy |
 | **Curated** | Résultats des analyses métier, prêts à consommer | CSV |
 
-![Schéma de l'architecture Data Lake sur HDFS](./Schéma architecture-datalake.png)
+![Schéma de l'architecture Data Lake sur HDFS](./Schema-architecture-datalake.png)
 
 ## Stack technique
 
