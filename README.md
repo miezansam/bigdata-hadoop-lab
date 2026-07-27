@@ -11,7 +11,7 @@ Ce dépôt regroupe l'ensemble des travaux pratiques réalisés dans le cadre du
 
 ## Auteur
 
-**YAO MIÉZAN SAM WILLIAM** , Master 1 DATA-IA, Université Polytechnique de Bingerville
+**YAO MIÉZAN SAM WILLIAM** , Master 1 DATA-IA, Université Polytechnique de Bingerville                 
 **Enseignant** : Dr BOBET GOUALO      
 **Année académique** : 2025-2026
 
