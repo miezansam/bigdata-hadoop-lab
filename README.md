@@ -19,7 +19,7 @@ Tous les TP partagent un fil conducteur commun : un jeu de données de **100 000
 
 ## Projets du module
 
-| # | Projet | Description | Auteur(s) |
+| # | Projet | Description | Réalisé par |
 |---|---|---|---|
 | 01 | [Installation Hadoop sur AWS EC2](./01-hadoop-ec2-installation) | Déploiement manuel d'un cluster Hadoop pseudo-distribué sur une instance EC2 unique | YAO MIÉZAN SAM WILLIAM |
 | 02 | [Cluster Amazon EMR](./02-amazon-emr-cluster) | Reproduction du pipeline sur un cluster EMR managé multi-nœuds, avec comparaison à l'approche manuelle | YAO MIÉZAN SAM WILLIAM |
